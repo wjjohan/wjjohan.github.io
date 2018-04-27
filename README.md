@@ -6,3 +6,5 @@
 # Important Info
 * To target an id, use `#`
 * To target a class, use `.`
+* "When coming up with names for classes and ids, it's often helpful to think in terms of *how something functions* or *what its intent is*, and it's usually best to *be specific*"
+* "ids are intended to target only one element on the page, while classes can target multiple things"
